@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Odev_bir\bin\Debug\net5.0\Odev_bir.exe
+C:\Users\Cem\Desktop\C#\Odev_bir\bin\Debug\net5.0\Odev_bir.deps.json
+C:\Users\Cem\Desktop\C#\Odev_bir\bin\Debug\net5.0\Odev_bir.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Odev_bir\bin\Debug\net5.0\Odev_bir.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Odev_bir\bin\Debug\net5.0\Odev_bir.dll
+C:\Users\Cem\Desktop\C#\Odev_bir\bin\Debug\net5.0\Odev_bir.pdb
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\Odev_bir.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\Odev_bir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\Odev_bir.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\Odev_bir.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\Odev_bir.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\Odev_bir.dll
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\refint\Odev_bir.dll
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\Odev_bir.pdb
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\Odev_bir.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Odev_bir\obj\Debug\net5.0\ref\Odev_bir.dll
